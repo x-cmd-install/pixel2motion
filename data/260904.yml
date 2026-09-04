@@ -1,27 +1,29 @@
 about:
-  description: AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.
+  description:
+  |
+    AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.
   license: MIT
   homepage: https://nolangz.github.io/pixel2motion/
   head: e9faedb
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T04:31:17Z
+  collectedAt: 2026-09-04T19:34:40Z
 timeline:
   created: 2026-06-12
   lastCommit: 2026-08-21
-  lastRelease: ?
+  lastRelease: 
 popularity:
-  star: 2148
+  star: 2154
   watcher: 5
   fork: 181
   release: 0
   contributor: 2
-  pullRequest: 1
+  pullRequest: 3
   issue: 6
 language:
   Python: 94609
   JavaScript: 20475
-totalLine: 115084
+totalBytes: 115084
 recent:
   last30d:
     since: 2026-08-05
@@ -31,6 +33,14 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 1
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 3
   last90d:
     since: 2026-06-06
     release: 0
@@ -55,3 +65,21 @@ recent:
     closedIssue: 1
     openIssue: 5
     commit: 27
+  last720d:
+    since: 2024-09-14
+    release: 0
+    mergedPR: 2
+    openPR: 1
+    closedIssue: 1
+    openIssue: 5
+    commit: 29
+total:
+  release: 0
+  mergedPR: 2
+  openPR: 1
+  closedIssue: 1
+  openIssue: 5
+  commit: 29
+---
+---
+
