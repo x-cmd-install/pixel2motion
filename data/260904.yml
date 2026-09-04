@@ -7,13 +7,13 @@ about:
   head: e9faedb
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:34:40Z
+  collectedAt: 2026-09-04T20:56:38Z
 timeline:
   created: 2026-06-12
   lastCommit: 2026-08-21
   lastRelease: 
 popularity:
-  star: 2154
+  star: 2155
   watcher: 5
   fork: 181
   release: 0
@@ -81,5 +81,38 @@ total:
   openIssue: 5
   commit: 29
 ---
+path: /home/runner/.x-repo/github.com/nolangz/pixel2motion
+collectedAt: 2026-09-04T20:56:39Z
+loc:
+  Html:
+    code: 7281
+    comments: 0
+    blanks: 4
+    files: 2
+  Python:
+    code: 2309
+    comments: 13
+    blanks: 291
+    files: 10
+  JavaScript:
+    code: 533
+    comments: 1
+    blanks: 34
+    files: 1
+  Yaml:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 618
+    blanks: 230
+    files: 7
+total:
+  code: 10541
+  comments: 648
+  blanks: 613
+  files: 21
 ---
 
