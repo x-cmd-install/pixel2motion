@@ -5,13 +5,13 @@ about:
   head: e9faedb
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-08T02:11:11Z
+  collectedAt: 2026-09-08T04:51:11Z
 timeline:
   created: 2026-06-12
   lastCommit: 2026-08-21
   lastRelease: 
 popularity:
-  star: 2167
+  star: 2169
   watcher: 5
   fork: 181
   release: 0
@@ -80,7 +80,7 @@ total:
   commit: 29
 ---
 path: /home/runner/.x-repo/github.com/nolangz/pixel2motion
-collectedAt: 2026-09-08T02:11:12Z
+collectedAt: 2026-09-08T04:51:12Z
 loc:
   Html:
     code: 7281
