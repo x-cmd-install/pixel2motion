@@ -4,7 +4,7 @@
 
 AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.
 
-![pixel2motion](https://repo.x-cmd.io/pixel2motion.svg)
+![pixel2motion](https://repo.x-cmd.io/pixel2motion.svg?lang=zh)
 
 ## 安装
 
@@ -20,7 +20,7 @@ x install pixel2motion
 
 ## 流行度
 
-- **Star**: 2,182 · **Fork**: 183 · **开放 issue**: 6 · **贡献者**: 2
+- **Star**: 2,183 · **Fork**: 183 · **开放 issue**: 6 · **贡献者**: 2
 
 ## 累计统计
 
@@ -55,4 +55,4 @@ pixel2motion 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:54:32Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:48:07Z._
