@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:54:28Z
+  collectedAt: 2026-09-10T16:47:52Z
 timeline:
   created: 2026-06-12
   lastCommit: 2026-08-21
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 2182
+  star: 2183
   watcher: 5
   fork: 183
   release: 0
@@ -84,7 +84,7 @@ total:
   commit: 29
 ---
 path: /home/runner/.x-repo/github.com/nolangz/pixel2motion
-collectedAt: 2026-09-10T04:54:29Z
+collectedAt: 2026-09-10T16:47:56Z
 loc:
   Html:
     code: 7281
