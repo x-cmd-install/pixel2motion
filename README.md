@@ -32,7 +32,7 @@ Total: **10,127** lines of code across **21** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,195 · **Forks**: 183 · **Open issues**: 6 · **Contributors**: 2
+- **Stars**: 2,204 · **Forks**: 184 · **Open issues**: 6 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -58,4 +58,4 @@ Install metadata for pixel2motion lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:17:08Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:49:34Z._
