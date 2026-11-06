@@ -32,22 +32,22 @@ Total: **10,127** lines of code across **21** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,586 · **Forks**: 212 · **Open issues**: 6 · **Contributors**: 2
+- **Stars**: 2,595 · **Forks**: 214 · **Open issues**: 6 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 2 · **Closed issues**: 2 · **Open issues**: 4 · **Commits**: 29
+- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 3 · **Closed issues**: 2 · **Open issues**: 4 · **Commits**: 29
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-06 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-07 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last180d | 2026-05-09 | 0 | 2 | 2 | 2 | 4 | 27 |
-| 360d | 2025-11-10 | 0 | 2 | 2 | 2 | 4 | 27 |
-| last720d | 2024-11-15 | 0 | 2 | 2 | 2 | 4 | 29 |
+| 30d | 2026-10-07 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-09-07 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-08-08 | 0 | 1 | 2 | 0 | 0 | 1 |
+| last180d | 2026-05-10 | 0 | 2 | 3 | 2 | 4 | 27 |
+| 360d | 2025-11-11 | 0 | 2 | 3 | 2 | 4 | 27 |
+| last720d | 2024-11-16 | 0 | 2 | 3 | 2 | 4 | 29 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for pixel2motion lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:50:59Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:47:18Z._
